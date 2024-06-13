@@ -27,6 +27,7 @@ import Link from "next/link"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import { Button } from "@/components/ui/button"
+import { JSX, SVGProps } from "react"
 
 export function Azusa() {
   return (
@@ -193,7 +194,7 @@ export function Azusa() {
   )
 }
 
-function BrushIcon(props) {
+function BrushIcon(props: JSX.IntrinsicAttributes & SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
