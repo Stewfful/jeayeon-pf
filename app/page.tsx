@@ -33,7 +33,7 @@ export default function Home() {
                 박재연 포트폴리오
               </h1>
               <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
-                작업 보관 및 취업 준비용
+                취업 준비용
               </p>
             </div>
           </div>
