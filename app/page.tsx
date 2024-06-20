@@ -33,7 +33,7 @@ export default function Home() {
                 박재연 포트폴리오
               </h1>
               <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
-                허나 십중팔구는 개허접 일러란다! 흐헤헤 흐헤헤
+                취업 준비용
               </p>
             </div>
           </div>
@@ -135,7 +135,7 @@ export default function Home() {
             <div className="space-y-3">
               <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight">Let&apos;s Collaborate</h2>
               <p className="mx-auto max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-                근데 아무도 안 할 거 같긴 하다..........
+                문의는 moira9508@gmail.com으로 부탁드립니다.
               </p>
             </div>
             <div className="mx-auto w-full max-w-sm space-y-2">
