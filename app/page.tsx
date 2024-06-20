@@ -14,13 +14,13 @@ export default function Home() {
       </Link>
       <nav className="ml-auto flex gap-4 sm:gap-6">
         <Link className="text-sm font-medium hover:underline underline-offset-4" href="#">
-          Work
+          소개
         </Link>
-        <Link className="text-sm font-medium hover:underline underline-offset-4" href="#">
-          About
+        <Link className="text-sm font-medium hover:underline underline-offset-4" href="#작업물">
+          작업물
         </Link>
-        <Link className="text-sm font-medium hover:underline underline-offset-4" href="#">
-          Contact
+        <Link className="text-sm font-medium hover:underline underline-offset-4" href="#문의">
+          문의
         </Link>
       </nav>
     </header>
@@ -33,13 +33,13 @@ export default function Home() {
                 박재연 포트폴리오
               </h1>
               <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
-                취업 준비용
+                2003년 4월 30일생, 2d 캐릭터 디자인을 주요로 작업함
               </p>
             </div>
           </div>
         </div>
       </section>
-      <section className="w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800">
+      <section className="w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800" id="작업물">
         <div className="container mx-auto px-4 md:px-6 max-w-screen-xl">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 lg:gap-8">
             <div className="group relative overflow-hidden rounded-lg">
@@ -129,7 +129,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <section className="w-full py-12 md:py-24 lg:py-32 border-t">
+      <section className="w-full py-12 md:py-24 lg:py-32 border-t"id="문의">
         <div className="container mx-auto px-4 md:px-6 max-w-screen-xl">
           <div className="grid items-center justify-center gap-4 text-center">
             <div className="space-y-3">
