@@ -30,11 +30,10 @@ export default function Home() {
           <div className="flex flex-col items-center space-y-4 text-center">
             <div className="space-y-2">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
-                Jenna Doe
+                박재연 포트폴리오
               </h1>
               <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
-                Jenna is a talented illustrator who specializes in whimsical and vibrant digital art. Her work is
-                inspired by nature, fantasy, and the beauty of the everyday.
+                허나 십중팔구는 개허접 일러란다! 흐헤헤 흐헤헤
               </p>
             </div>
           </div>
@@ -48,13 +47,13 @@ export default function Home() {
                 alt="Illustration 1"
                 className="aspect-square w-full object-cover transition-all duration-300 group-hover:scale-105"
                 height="400"
-                src="/placeholder.svg"
+                src="IMG_2756.PNG"
                 width="400"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-gray-900/80 to-transparent opacity-0 transition-all duration-300 group-hover:opacity-100" />
               <div className="absolute bottom-4 left-4 text-white opacity-0 transition-all duration-300 group-hover:opacity-100">
-                <h3 className="text-lg font-semibold">Whimsical Forest</h3>
-                <p className="text-sm">Digital Illustration</p>
+                <h3 className="text-lg font-semibold">캐릭터 디자인</h3>
+                <p className="text-sm">character design</p>
               </div>
             </div>
             <div className="group relative overflow-hidden rounded-lg">
@@ -62,13 +61,13 @@ export default function Home() {
                 alt="Illustration 2"
                 className="aspect-square w-full object-cover transition-all duration-300 group-hover:scale-105"
                 height="400"
-                src="/placeholder.svg"
+                src="IMG_0760.PNG"
                 width="400"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-gray-900/80 to-transparent opacity-0 transition-all duration-300 group-hover:opacity-100" />
               <div className="absolute bottom-4 left-4 text-white opacity-0 transition-all duration-300 group-hover:opacity-100">
-                <h3 className="text-lg font-semibold">Enchanted Meadow</h3>
-                <p className="text-sm">Digital Illustration</p>
+                <h3 className="text-lg font-semibold">인터페이스 디자인</h3>
+                <p className="text-sm">Interface design</p>
               </div>
             </div>
             <div className="group relative overflow-hidden rounded-lg">
@@ -76,13 +75,13 @@ export default function Home() {
                 alt="Illustration 3"
                 className="aspect-square w-full object-cover transition-all duration-300 group-hover:scale-105"
                 height="400"
-                src="/placeholder.svg"
+                src="IMG_2522.PNG"
                 width="400"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-gray-900/80 to-transparent opacity-0 transition-all duration-300 group-hover:opacity-100" />
               <div className="absolute bottom-4 left-4 text-white opacity-0 transition-all duration-300 group-hover:opacity-100">
-                <h3 className="text-lg font-semibold">Celestial Dreamscape</h3>
-                <p className="text-sm">Digital Illustration</p>
+                <h3 className="text-lg font-semibold"> 엠블럼 디자인</h3>
+                <p className="text-sm">emblem design</p>
               </div>
             </div>
             <div className="group relative overflow-hidden rounded-lg">
@@ -90,13 +89,13 @@ export default function Home() {
                 alt="Illustration 4"
                 className="aspect-square w-full object-cover transition-all duration-300 group-hover:scale-105"
                 height="400"
-                src="/placeholder.svg"
+                src="20240304234230_1.jpg"
                 width="400"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-gray-900/80 to-transparent opacity-0 transition-all duration-300 group-hover:opacity-100" />
               <div className="absolute bottom-4 left-4 text-white opacity-0 transition-all duration-300 group-hover:opacity-100">
-                <h3 className="text-lg font-semibold">Floral Fantasy</h3>
-                <p className="text-sm">Digital Illustration</p>
+                <h3 className="text-lg font-semibold">자동차 데칼</h3>
+                <p className="text-sm">Decal</p>
               </div>
             </div>
             <div className="group relative overflow-hidden rounded-lg">
@@ -104,13 +103,13 @@ export default function Home() {
                 alt="Illustration 5"
                 className="aspect-square w-full object-cover transition-all duration-300 group-hover:scale-105"
                 height="400"
-                src="/placeholder.svg"
+                src="IMG_2157.jpg"
                 width="400"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-gray-900/80 to-transparent opacity-0 transition-all duration-300 group-hover:opacity-100" />
               <div className="absolute bottom-4 left-4 text-white opacity-0 transition-all duration-300 group-hover:opacity-100">
-                <h3 className="text-lg font-semibold">Underwater Oasis</h3>
-                <p className="text-sm">Digital Illustration</p>
+                <h3 className="text-lg font-semibold">2차 창작-원신</h3>
+                <p className="text-sm">Genshin impact</p>
               </div>
             </div>
             <div className="group relative overflow-hidden rounded-lg">
@@ -118,13 +117,13 @@ export default function Home() {
                 alt="Illustration 6"
                 className="aspect-square w-full object-cover transition-all duration-300 group-hover:scale-105"
                 height="400"
-                src="/placeholder.svg"
+                src="IMG_2612.PNG"
                 width="400"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-gray-900/80 to-transparent opacity-0 transition-all duration-300 group-hover:opacity-100" />
               <div className="absolute bottom-4 left-4 text-white opacity-0 transition-all duration-300 group-hover:opacity-100">
-                <h3 className="text-lg font-semibold">Autumn Reverie</h3>
-                <p className="text-sm">Digital Illustration</p>
+                <h3 className="text-lg font-semibold">2차 창작-블루 아카이브</h3>
+                <p className="text-sm">Blue archive</p>
               </div>
             </div>
           </div>
@@ -136,8 +135,7 @@ export default function Home() {
             <div className="space-y-3">
               <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight">Let&apos;s Collaborate</h2>
               <p className="mx-auto max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-                If you&apos;re interested in working with Jenna or would like to inquire about her services, please fill
-                out the form below.
+                근데 아무도 안 할 거 같긴 하다..........
               </p>
             </div>
             <div className="mx-auto w-full max-w-sm space-y-2">
